@@ -1,15 +1,21 @@
-git init
+# Some git cmds
 
-git branch -m main
+## second title
 
-git remote add origin https://github.com/zhongnanli/test.git
+- git init
 
-git push -u origin main
+- git branch -m main
 
-git add <files>
+- git remote add origin https://github.com/zhongnanli/test.git
 
-git commit
+- git add <files>
 
-git push
+- git commit
 
-git clone <url of the repo>
+- git push -u origin main
+
+- (git push)
+
+- git clone <url of the repo>
+
+a [link](https://github.com/zhongnanli/test)
